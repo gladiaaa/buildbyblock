@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "nbt-js": "^0.1.0",
+    "pako": "^2.1.0",
+    "prismarine-nbt": "^2.7.0",
+    "three": "^0.176.0"
+  }
+}
